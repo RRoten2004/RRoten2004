@@ -1,12 +1,14 @@
-- Hi, I’m @RRoten2004
+- Hi, I’m @RRoten2004.
 
-- I’m interested in creating and editing documentation
+- My career focus is in creating and editing documentation.
 
-- I’m currently learning Git, Markdown, GitHub Desktop, and studying cloud-based environments
+- Every day, I’m learning more about Git, Markdown, GitHub Desktop, and studying cloud-based environments.
 
-- I'm especially eager to learn more about Markdown formatting
+- I learned a lot about working in Visual Studio Code before deciding that GitHub Desktop is a lot friendlier.
 
-- I’m looking to collaborate on cloud-based environment high-level comprehension
+- Markdown formatting offers incredible upsides and some limits. Learning to work within those limits, well, it's really cool.
+
+- Maybe we can collaborate on cloud-based environment development.
 
 - 📫  How to reach me: send your email address to me, thanks.
 
